@@ -1,5 +1,6 @@
 /// <reference path="phaser.js" />
 
+/** @type {Phaser.Types.Core.GameConfig} */
 var config = {
     type: Phaser.AUTO,
     width: 800,
